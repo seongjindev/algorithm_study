@@ -26,5 +26,6 @@ public class Eratosthenes {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
 }
